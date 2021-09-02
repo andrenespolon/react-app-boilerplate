@@ -1,0 +1,17 @@
+{
+  "theme": [
+    {
+      "userId": "1234567890",
+      "theme": "dark"
+    }
+  ],
+  "user": [
+    {
+      "userId": "1234567890",
+      "firstName": "André",
+      "lastName": "Nespolon",
+      "email": "andre.nespolon@gmail.com",
+      "sessionToken": "r:6ab96d491844e5910f1d75b195278b85"
+    }
+  ]
+}

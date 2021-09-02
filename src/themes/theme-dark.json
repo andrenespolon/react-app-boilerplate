@@ -1,0 +1,24 @@
+{
+	"colors": {
+		"bg": "#333",
+		"primary": "#06f",
+		"text": "#fff",
+		"muted": "#191919",
+		"border": "#fff8",
+		"error": "",
+		"success": "",
+		"info": "",
+		"warning": ""
+	},
+	"fontSize": {
+		"small": 12,
+		"body": 14,
+		"title": 36,
+		"head": 48
+	},
+	"fontWeight": {
+		"normal": 400,
+		"medium": 500,
+		"bold": 700
+	}
+}
