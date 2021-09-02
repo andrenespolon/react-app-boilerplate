@@ -1,4 +1,4 @@
-# pure-react
+# react-app-boilerplate
 
 This is my simple react configuration, using react, styled-components, redux and apisauce.
 
